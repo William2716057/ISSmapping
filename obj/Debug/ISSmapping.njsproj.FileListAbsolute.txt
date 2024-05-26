@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ISSmapping\ISSmapping\obj\Debug\ISSmapping.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ISSmapping\ISSmapping\obj\Debug\ISSmapping.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ISSmapping\ISSmapping\bin\Microsoft.NodejsTools.WebRole.dll
